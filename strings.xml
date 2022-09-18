@@ -1,0 +1,5 @@
+
+<resources>  
+    <string name="app_name">Kotlin Google Search Location</string>  
+    <string name="title_activity_maps">Google Search Location</string>  
+</resources>  
