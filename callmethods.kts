@@ -6,6 +6,4 @@ fun makeApiCall(location:Location){
     val jsonObject = JSONObject(response) // This will make the json below as an object for you
 
     // You can access all the attributes , nested ones using JSONArray and JSONObject here
-
-
 }
