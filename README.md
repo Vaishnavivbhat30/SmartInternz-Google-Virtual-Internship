@@ -1,6 +1,6 @@
 # SmartInternz-Google-Virtual-Internship
 
-Web Technologies used: Kotlin, Android Studio
+Programming Technologies used: Kotlin, Android Studio-kotlin
 
 IDE: Android Studio
 
