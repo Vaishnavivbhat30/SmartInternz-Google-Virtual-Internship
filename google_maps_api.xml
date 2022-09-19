@@ -12,4 +12,4 @@ Place the Google Map API key in res/values/google_map_api.xml file.
     string in this file.  
     -->  
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCKvLn2KTPKD_-REPLACE-WITH-YOUR-API</string>  
-</resources>  
+</resources>
